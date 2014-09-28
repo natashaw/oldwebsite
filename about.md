@@ -15,6 +15,7 @@ The _Institute of Electrical and Electronics Engineers_, or _IEEE_, is the world
 
 Through its global membership, IEEE is a leading authority on areas ranging from aerospace systems, computers and telecommunications to biomedical engineering, electric power and consumer electronics among others. Members rely on IEEE as a source of technical and professional information, resources and services. To foster an interest in the engineering profession, IEEE also serves student members in colleges and universities around the world. Other important constituencies include prospective members and organizations that purchase IEEE products and participate in conferences or other IEEE programs.
 
+* * *
 
 ### IEEE Branch Leadership
 
@@ -23,8 +24,6 @@ Our leadership team works tirelessly to provide a top-notch social, technical an
 The Executive Board is responsible for moving the Branch towards its goals outlined in the constitution, maintaining the functionality of the Branch, and maintaining the public image of the Branch. It is also responsible for planning, adopting, and executing the policies and programs of the Branch, as well as approving programs submitted by the committees before they are submitted to the Branch.
 
 The officers listed below are elected annually at the second to last general body meeting of each spring semester.
-
-* * *
 
 ### Executive Board 2014-2015
 
@@ -41,7 +40,7 @@ The officers listed below are elected annually at the second to last general bod
 * Jai Vijai Baskar Sathyanarayanan, Newsletter Editor <[jsathyan@hawk.iit.edu](mailto:jsathyan@hawk.iit.edu)>
 * Eric Tendian, Full-Stack Marketer (Webmaster), <[eric@tendian.io](mailto:eric@tendian.io)>
 
-Mentors:
+**Mentors:**
 
 * Robert Burke, IEEE-Chicago Branch Mentor <[robert.burke@culligan.com](mailto:robert.burke@culligan.com)>
 * Jia Wang, ECE Faculty Sponsor <[jwang@ece.iit.edu](mailto:jwang@ece.iit.edu)>
@@ -49,11 +48,9 @@ Mentors:
 * Mehdi Ganji, Former Exec. Board <[mehdi.ganji@gmail.com](mailto:mehdi.ganji@gmail.com)>
 * George Williams, Former Exec. Board <[gwillia5@hawk.iit.edu](mailto:gwillia5@hawk.iit.edu)>
 
-* * *
-
 ### Executive Board Committees
 
-We have a wide selection of committees that sit alongside and support the Executive Board’s work. Here are our currently available committees and their roles. [Join one today!](http://mypages.iit.edu/~ieee/contact-us/)
+We have a wide selection of committees that sit alongside and support the Executive Board’s work. Here are our currently available committees and their roles. [Join one today!](https://docs.google.com/a/iit.edu/forms/d/1cV_qgjEWuS5qIv0qMy9BhVNQLUIuIvBdpoc5ogg6zoQ/viewform)
 
 *   **Finance**
 
@@ -78,6 +75,12 @@ We have a wide selection of committees that sit alongside and support the Execut
 *   **Information Technology (IT)**
 
     The IT Committee will assist the _Webmaster_ in building and maintaining the online presence of IEEE@IIT, as well as meeting any technical needs of the Branch. Members should be interested in programming, UI design, Linux, databases, or anything software-related. The IT Committee can work on any project that improves Branch activities with automation, interface design, and our online presence.
+
+#### Sign Up
+
+Do you want to join one of our executive board committees? [Just fill out this form](https://docs.google.com/a/iit.edu/forms/d/1cV_qgjEWuS5qIv0qMy9BhVNQLUIuIvBdpoc5ogg6zoQ/viewform) and we will contact you with further information.
+
+* * *
 
 ### Our Constitution and Bylaws
 

@@ -1,0 +1,42 @@
+/* CUSTOM IEEE CSS */
+
+.masthead form {
+    float: right;
+    margin-top: -1.75em;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+
+}
+
+.masthead form input[type="email"] {
+    background: #fff;
+    border: 1px solid #ac4142;
+    border-radius: 4px;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    padding: 4px;
+    /*-webkit-transition: border-width linear .15s;
+    transition: border-width linear .15s;*/
+    font-size: 0.75em;
+}
+
+.masthead form input[type="email"]:focus {
+    border: 2px solid #ac4142;
+    outline: none !important;
+    padding: 3px;
+}
+
+.masthead form input[type="submit"] {
+    background: #ac4142;
+    border: none;
+    border-radius: 4px;
+    padding: 4px 6px;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    color: #fff;
+    font-size: 0.75em;
+}
+
+.masthead form input[type="submit"]:hover, .masthead form input[type="submit"]:active {
+    background: #932829;
+    -webkit-transition: background-color linear .15s;
+    transition: background-color linear .15s;
+}
