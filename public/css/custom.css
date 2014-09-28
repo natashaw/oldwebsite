@@ -1,5 +1,9 @@
 /* CUSTOM IEEE CSS */
 
+#intro p {
+  font-size: 0.8em;
+}
+
 .masthead form {
   float: right;
   margin-top: -1.55em;

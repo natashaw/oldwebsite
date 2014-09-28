@@ -4,18 +4,24 @@ title: Home
 weight: 0
 ---
 
-<p>
-  <strong>Welcome to the new IEEE@IIT website!</strong> We have rebuilt it with a mobile-first design to make it simpler to use and update, as well as faster. No longer are we using WordPress - instead we are using a static site generator called <a href="http://jekyllrb.com/" target="_blank">Jekyll.</a> Visit one of the following pages to learn more about IEEE@IIT:
-  {% assign pages_list = site.pages | sort:"weight" %}
-  {% for node in pages_list %}
-    {% if node.title != null %}
-      {% if node.layout == "page" %}
-        <a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>,
+<div id="intro">
+  <p>
+    <strong>Welcome to the new IEEE@IIT website!</strong> We have rebuilt it with a mobile-first design to make it simpler to use and update, as well as faster. No longer are we using WordPress - instead we are using a static site generator called <a href="http://jekyllrb.com/" target="_blank">Jekyll.</a> Visit one of the following pages to learn more about IEEE@IIT:
+    {% assign pages_list = site.pages | sort:"weight" %}
+    {% for node in pages_list %}
+      {% if node.title != null %}
+        {% if node.layout == "page" %}
+          <a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>,
+        {% endif %}
       {% endif %}
-    {% endif %}
-  {% endfor %}
-  or click/tap the menu icon on the left for more information.
-</p>
+    {% endfor %}
+    or click/tap the menu icon on the left for more information.
+  </p>
+
+  <p>
+    <strong>About IEEE@IIT:</strong> IEEE (pronounced I-Triple-E), which stands for the Institute of Electrical and Electronics Engineers, is known as the world's largest professional association for the advancement of technology. Here at the Illinois Institute of Technology, IEEE represents one of the largest student organizations on campus. Though it may seem from the name that we consist of students only from the Electrical and Computer Engineering department, we in fact encompass all different engineering fields and welcome this diversity. Our organization strives to further students' professional and educational development through a wide array of opportunities. Please take a look at what we have to offer, and come visit the IEEE Office located in Siegel Hall 013!
+  </p>
+</div>
 
 <div class="posts">
   {% for post in paginator.posts %}
