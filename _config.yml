@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:               IEEE@IIT
 tagline:             'Illinois Tech IEEE Student Branch'
-description:         "IEEE@IIT is Illinois Tech's student chapter of the Institute of Electrical and Electronics Engineers (IEEE). Read the <a href='{{ site.baseurl }}/about/'>About Us page</a> to learn more."
+description:         "IEEE@IIT is Illinois Tech's branch of the Institute of Electrical and Electronics Engineers (IEEE). Read the <a href='{{ site.baseurl }}/about/'>About Us page</a> to learn more."
 url:                 http://mypages.iit.edu/~ieee
 baseurl:             /~ieee
 paginate:            5
@@ -29,4 +29,3 @@ ftp_host: 'myftp.iit.edu'
 ftp_dir: '/www'
 ftp_passive: false
 ftp_username: 'ieee'
-
