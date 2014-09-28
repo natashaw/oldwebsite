@@ -4,6 +4,19 @@ title: Home
 weight: 0
 ---
 
+<p>
+  <strong>Welcome to the new IEEE@IIT website!</strong> We have rebuilt it with a mobile-first design to make it simpler to use and update, as well as faster. No longer are we using WordPress - instead we are using a static site generator called <a href="http://jekyllrb.com/" target="_blank">Jekyll.</a> Visit one of the following pages to learn more about IEEE@IIT:
+  {% assign pages_list = site.pages | sort:"weight" %}
+  {% for node in pages_list %}
+    {% if node.title != null %}
+      {% if node.layout == "page" %}
+        <a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>,
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  or click/tap the menu icon on the left for more information.
+</p>
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
