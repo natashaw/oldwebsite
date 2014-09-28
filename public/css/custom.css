@@ -1,42 +1,80 @@
 /* CUSTOM IEEE CSS */
 
 .masthead form {
-    float: right;
-    margin-top: -1.75em;
-    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  float: right;
+  margin-top: -1.55em;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  display: none;
+}
 
+@media (min-width: 48em) {
+  .masthead form {
+    display: block;
+  }
 }
 
 .masthead form input[type="email"] {
-    background: #fff;
-    border: 1px solid #ac4142;
-    border-radius: 4px;
-    font-family: "PT Sans", Helvetica, Arial, sans-serif;
-    padding: 4px;
-    /*-webkit-transition: border-width linear .15s;
-    transition: border-width linear .15s;*/
-    font-size: 0.75em;
+  background: #fff;
+  border: 1px solid #ac4142;
+  border-radius: 4px;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  padding: 4px;
+  margin: 0;
+  font-size: 0.75em;
+}
+
+@media (max-width: 56em) {
+  .masthead form {
+    margin-right: -1em;
+  }
+  .masthead form input[type="email"] {
+    width: 70%;
+  }
 }
 
 .masthead form input[type="email"]:focus {
-    border: 2px solid #ac4142;
-    outline: none !important;
-    padding: 3px;
+  border: 2px solid #ac4142;
+  outline: none !important;
+  padding: 3px;
 }
 
 .masthead form input[type="submit"] {
-    background: #ac4142;
-    border: none;
-    border-radius: 4px;
-    padding: 4px 6px;
-    font-family: "PT Sans", Helvetica, Arial, sans-serif;
-    font-weight: 700;
-    color: #fff;
-    font-size: 0.75em;
+  background: #ac4142;
+  border: none;
+  border-radius: 4px;
+  padding: 5px 10px;
+  margin: 0 0 0 -0.1em;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  color: #fff;
+  font-size: 0.75em;
 }
 
 .masthead form input[type="submit"]:hover, .masthead form input[type="submit"]:active {
-    background: #932829;
-    -webkit-transition: background-color linear .15s;
-    transition: background-color linear .15s;
+  background: #932829;
+  -webkit-transition: background-color ease-in-out .25s;
+  transition: background-color ease-in-out .25s;
+}
+
+.masthead .socialmedia-right {
+  position: absolute;
+  top: 0.6rem;
+  bottom: 0;
+  right: 1rem;
+  width: 2rem;
+  line-height: 1.15rem;
+}
+
+.footer#footer {
+  font-size: 0.75em;
+  text-align: center;
+  margin: 1rem auto;
+}
+
+.footer#footer p {
+  margin: 0;
+}
+
+.footer#footer #socialmedia {
+  font-size: 1.5em;
 }
