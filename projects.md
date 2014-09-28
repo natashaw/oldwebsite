@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+weight: 3
 ---
 
 Join a project today!

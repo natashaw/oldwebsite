@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Us
+weight: 1
 ---
 
 ### What is IEEE@IIT?

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact Us
+weight: 6
 ---
 
 ### Send a Message

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Newsletter
+weight: 2
 ---
 
 We operate a bi-monthly newsletter, used to inform subscribers of all the events IEEE will be hosting in the coming weeks. Important announcements regarding internal affairs are also included. You can view archived copies of our newsletter in the links below.

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Corporate Relations
+weight: 4
 ---
 
 IEEE@IIT is a premier organization focused on serving the students and faculty of the ECE department. As the largest organization within ECE, IEEE has the ability to directly reach a substantial number of ECE students in order to involve them in IEEE’s activities, which include:
