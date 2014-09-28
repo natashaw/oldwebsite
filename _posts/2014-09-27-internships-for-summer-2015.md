@@ -41,9 +41,7 @@ Intel has a broad range of BS, MS and PhD opportunities in the following technic
 
 Intel offers multiple programs that allow you to try out a variety of roles, gain a wide range of experience, and explore multiple opportunities. Visit [Intel’s Student Center](https://www-ssl.intel.com/content/www/us/en/jobs/student-center.html) and check out what's in store for you.
 
-Also, make sure you don’t miss your chance to chat with Intel’s hiring teams at a local campus near you! Visit our [Recruiting Events Calendar](http://www.intel.com/content/www/us/en/jobs/recruiting-events/recruiting-events-calendar.html)
-
-today to find out when we’ll be in your neck of the woods! If we are not able to visit your particular school, don’t worry, you will still have an
+Also, make sure you don’t miss your chance to chat with Intel’s hiring teams at a local campus near you! Visit our [Recruiting Events Calendar](http://www.intel.com/content/www/us/en/jobs/recruiting-events/recruiting-events-calendar.html) today to find out when we’ll be in your neck of the woods! If we are not able to visit your particular school, don’t worry, you will still have an
 opportunity to connect with us virtually. Watch for virtual events to be posted soon.
 
 For more information on our openings visit the following links:

@@ -1,5 +1,5 @@
 ---
-title: Northwestern University WildHacks!
+title: Northwestern University WildHacks
 author: Robert Burke
 layout: post
 permalink: /2014/09/northwestern-university-wildhacks/
