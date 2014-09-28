@@ -17,6 +17,5 @@ Last year there were 2000 teams around the world, with 7 from Chicago. We hope t
 
 We will have a local competition site, and will also provide food and refreshments during the competition. Information about the competition is on the IEEE website at [www.ieee.org/xtreme](http://www.ieee.org/membership_services/membership/students/competitions/xtreme/index.html), but we're currently working on finding a proctor. Stay tuned for further details, including the proctor!
 
-## [Click here to
-register](https://docs.google.com/forms/d/138qy6gWxNE6uXvLn-21uaXTq7FkElAGwBBUmIDpCZVI/viewform?usp=send_form)
+## [Click here to register](https://docs.google.com/forms/d/138qy6gWxNE6uXvLn-21uaXTq7FkElAGwBBUmIDpCZVI/viewform?usp=send_form)
 
