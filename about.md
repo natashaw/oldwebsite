@@ -82,7 +82,3 @@ We have a wide selection of committees that sit alongside and support the Execut
 ### Our Constitution and Bylaws
 
 <iframe src="http://docs.google.com/viewer?url=http%3A%2F%2Fmypages.iit.edu%2F~ieee%2Fpublic%2Fmedia%2FIEEEIITConstitutionBylaws2014-15.pdf&embedded=true" width="100%" height="780" style="border: none;">View the document at http://mypages.iit.edu/~ieee/public/media/IEEEIITConstitutionBylaws2014-15.pdf</iframe>
-
-### Sponsors
-
-Coming soon
