@@ -28,7 +28,7 @@ The officers listed below are elected annually at the second to last general bod
 
 ### Executive Board 2014-2015
 
-* Rohit Agarwal, The Chief Baloonist <[ragarwa6@hawk.iit.edu](mailto:ragarwa6@hawk.iit.edu)>
+* Rohit Agarwal, President <[ragarwa6@hawk.iit.edu](mailto:ragarwa6@hawk.iit.edu)>
 * Sankesh Jain, Vice President <[sjain44@hawk.iit.edu](mailto:sjain44@hawk.iit.edu)>
 * Subarno Saha, Treasurer <[ssaha8@hawk.iit.edu](mailto:ssaha8@hawk.iit.edu)>
 * Kecheng Liu, Secretary (Internal) <[kliu6@hawk.iit.edu](mailto:kliu6@hawk.iit.edu)>
