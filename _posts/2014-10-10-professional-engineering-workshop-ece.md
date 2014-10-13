@@ -13,19 +13,18 @@ WHERE: **Sargent & Lundy Company, 55 East Monroe St 35th floor, Chicago, IL, 606
 ### Agenda
 
 * Morning Session (9:00am-12:00pm)
-    Benefits of Becoming a PE
-    EE Areas of Study & Examination
-    Registration Process; FE/EIT to PE
-    How to get Licensed [Focused on Illinois Requirements]
-    NCEES Requirements for Electrical Power; Electronics; & Computer Examinations
-    Recommended Study Program
+  * Benefits of Becoming a PE
+  * EE Areas of Study & Examination
+  * Registration Process; FE/EIT to PE
+  * How to get Licensed [Focused on Illinois Requirements]
+  * NCEES Requirements for Electrical Power; Electronics; & Computer Examinations
+  * Recommended Study Program
 * Lunch (12:00pm-12:30pm)
 * Afternoon Session (12:30pm-3:30pm)
-    Power Examination Review
-    Electrical and Electronic Examination Review
-    Computer Examination Review
-    [Includes Practice Problems]
-    Handout with Summary of Information
+  * Power Examination Review
+  * Electrical and Electronic Examination Review
+  * Computer Examination Review [Includes Practice Problems]
+  * Handout with Summary of Information
 * Q&A Session (3:30pm-4:30pm)
 
 ## [Click here to view the full event details and register!](https://meetings.vtools.ieee.org/m/28407)
