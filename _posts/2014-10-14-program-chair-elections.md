@@ -1,11 +1,13 @@
 ---
-title: Program Chair Candidate Bios
+title: Program Chair Elections
 author: Eric Tendian
 layout: post
-permalink: /2014/10/program-chair-candidate-bios/
+permalink: /2014/10/program-chair-elections/
 ---
 
-Due to a vacancy in our program chair position that we need to be filled, we have solicited applications for the position. Here are the candidates running for this position. You can vote for one of these candidates on [HawkLink](http://hawklink.iit.edu/) in the coming days - stay tuned for future emails.
+Due to a vacancy in our program chair position that we need to be filled, we have solicited applications for the position. Here are the candidates running for this position. You can vote for one of these candidates on [HawkLink](https://iit.collegiatelink.net/organization/ieee/election/start/54589); **the election will end on Monday, October 20th at 10:00pm**.
+
+## [Vote here](https://iit.collegiatelink.net/organization/ieee/election/start/54589)
 
 ***
 
