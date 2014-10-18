@@ -50,14 +50,14 @@ This is the website for the IEEE Illinois Institute of Technology student branch
 
 ## Getting Started
 
-Please refer to the Getting Started section of the wiki.
+[Please refer to the Getting Started section of the wiki.](https://github.com/IEEE-IIT/website/wiki/00-Getting-Started)
 
 ## Posting
 
-Check out our guide to making a new post!
+[Check out our guide to making a new post!](https://github.com/IEEE-IIT/website/wiki/01-Writing-and-Editing-Posts)
 
 ## Contributing
 
-See the "How to Contribute" section of the wiki.
+[See the "How to Contribute" section of the wiki.](https://github.com/IEEE-IIT/website/wiki/04-How-to-Contribute)
 
 We are always looking for help improving the documentation, so feel free to contribute and make it better!
