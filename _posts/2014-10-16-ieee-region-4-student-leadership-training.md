@@ -5,7 +5,7 @@ layout: post
 permalink: /2014/10/ieee-region-4-student-leadership-training/
 ---
 
-Please see the following message sent to us by a fellow IEEE branch. This is a great event, available to all our student branch members, who are encouraged to attend.
+Please see the following message sent to us by a fellow IEEE branch. This is a great event, available to all our student branch members, who are encouraged to attend. **Transportation will be provided.**
 
 ---
 
