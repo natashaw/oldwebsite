@@ -4,7 +4,7 @@ This is the website for the IEEE Illinois Institute of Technology student branch
 
 ## Tools used
 
-* [Jekyll](http://jekyllrb.com/)
+* [Jekyll](http://jekyllrb.com/), a static site generator
 * [Lanyon](https://github.com/poole/lanyon), a Jekyll theme
 * [Poole](http://getpoole.com/), what Lanyon is based on
 
