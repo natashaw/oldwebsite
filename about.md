@@ -37,7 +37,7 @@ The officers listed below are elected annually at the second to last general bod
 * Sijia Wu, Publicity Chair <[swu36@hawk.iit.edu](mailto:swu36@hawk.iit.edu)>
 * Ming Chen, Project Chair <[mchen50@hawk.iit.edu](mailto:mchen50@hawk.iit.edu)>
 * Ray (Raed) Tawil, Industry Relations <[rtawil@hawk.iit.edu](mailto:rtawil@hawk.iit.edu)>
-* Vacant (prev. Sankesh Jain), Program Chair <Vacant>
+* Jay Joshi, Program Chair <[jjoshi6@hawk.iit.edu](mailto:jjoshi6@hawk.iit.edu)>
 * Jai Vijai Baskar Sathyanarayanan, Newsletter Editor <[jsathyan@hawk.iit.edu](mailto:jsathyan@hawk.iit.edu)>
 * Eric Tendian, Full-Stack Marketer (Webmaster), <[eric@tendian.io](mailto:eric@tendian.io)>
 
