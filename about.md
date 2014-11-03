@@ -39,7 +39,7 @@ The officers listed below are elected annually at the second to last general bod
 * Ray (Raed) Tawil, Industry Relations <[rtawil@hawk.iit.edu](mailto:rtawil@hawk.iit.edu)>
 * Jay Joshi, Program Chair <[jjoshi6@hawk.iit.edu](mailto:jjoshi6@hawk.iit.edu)>
 * Jai Vijai Baskar Sathyanarayanan, Newsletter Editor <[jsathyan@hawk.iit.edu](mailto:jsathyan@hawk.iit.edu)>
-* Eric Tendian, Full-Stack Marketer (Webmaster), <[eric@tendian.io](mailto:eric@tendian.io)>
+* Vacant, Webmaster, <[Vacant](mailto:)>
 
 **Mentors:**
 
@@ -48,6 +48,7 @@ The officers listed below are elected annually at the second to last general bod
 * Chi Zhou, ECE Faculty Sponsor <[zhouc@ece.iit.edu](mailto:zhouc@ece.iit.edu)>
 * Mehdi Ganji, Former Exec. Board <[mehdi.ganji@gmail.com](mailto:mehdi.ganji@gmail.com)>
 * George Williams, Former Exec. Board <[gwillia5@hawk.iit.edu](mailto:gwillia5@hawk.iit.edu)>
+* [Eric Tendian](http://eric.tendian.io/), Former Exec. Board <[etendian@hawk.iit.edu](mailto:etendian@hawk.iit.edu)>
 
 ### Executive Board Committees
 
