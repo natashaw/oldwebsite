@@ -28,18 +28,18 @@ The officers listed below are elected annually at the second to last general bod
 
 ### Executive Board 2014-2015
 
-* Rohit Agarwal, President <[ragarwa6@hawk.iit.edu](mailto:ragarwa6@hawk.iit.edu)>
-* Sankesh Jain, Vice President <[sjain44@hawk.iit.edu](mailto:sjain44@hawk.iit.edu)>
-* Subarno Saha, Treasurer <[ssaha8@hawk.iit.edu](mailto:ssaha8@hawk.iit.edu)>
-* Kecheng Liu, Secretary (Internal) <[kliu6@hawk.iit.edu](mailto:kliu6@hawk.iit.edu)>
-* Ambika Abinavavidyatheerthan, Secretary (External) <[aabinava@hawk.iit.edu](mailto:aabinava@hawk.iit.edu)>
-* Saaduzzaman Syed, Membership Chair <[ssyed9@hawk.iit.edu](mailto:ssyed9@hawk.iit.edu)>
-* Sijia Wu, Publicity Chair <[swu36@hawk.iit.edu](mailto:swu36@hawk.iit.edu)>
-* Ming Chen, Project Chair <[mchen50@hawk.iit.edu](mailto:mchen50@hawk.iit.edu)>
-* Ray (Raed) Tawil, Industry Relations <[rtawil@hawk.iit.edu](mailto:rtawil@hawk.iit.edu)>
-* Jay Joshi, Program Chair <[jjoshi6@hawk.iit.edu](mailto:jjoshi6@hawk.iit.edu)>
-* Jai Vijai Baskar Sathyanarayanan, Newsletter Editor <[jsathyan@hawk.iit.edu](mailto:jsathyan@hawk.iit.edu)>
-* Vacant, Webmaster, <[Vacant](mailto:)>
+* President: Rohit Agarwal <[ragarwa6@hawk.iit.edu](mailto:ragarwa6@hawk.iit.edu)>
+* Vice President: Sankesh Jain <[sjain44@hawk.iit.edu](mailto:sjain44@hawk.iit.edu)>
+* Treasurer: Subarno Saha <[ssaha8@hawk.iit.edu](mailto:ssaha8@hawk.iit.edu)>
+* Secretary (Internal): Kecheng Liu <[kliu6@hawk.iit.edu](mailto:kliu6@hawk.iit.edu)>
+* Secretary (External): Ambika Abinavavidyatheerthan <[aabinava@hawk.iit.edu](mailto:aabinava@hawk.iit.edu)>
+* Membership Chair: Saaduzzaman Syed <[ssyed9@hawk.iit.edu](mailto:ssyed9@hawk.iit.edu)>
+* Publicity Chair: Isabelle Sophie Guitard <[iguitard@hawk.iit.edu](mailto:iguitard@hawk.iit.edu)>
+* Project Chair: Ming Chen <[mchen50@hawk.iit.edu](mailto:mchen50@hawk.iit.edu)>
+* Program Chair: Jay Joshi <[jjoshi6@hawk.iit.edu](mailto:jjoshi6@hawk.iit.edu)>
+* Industry Relations: Sreeram Haridas <[sharida3@hawk.iit.edu](mailto:sharida3@hawk.iit.edu)>
+* Newsletter Editor: Jai Vijai Baskar Sathyanarayanan <[jsathyan@hawk.iit.edu](mailto:jsathyan@hawk.iit.edu)>
+* Webmaster: Natasha Wijoyo <[nwijoyo@hawk.iit.edu](mailto:nwijoyo@hawk.iit.edu)>
 
 **Mentors:**
 
