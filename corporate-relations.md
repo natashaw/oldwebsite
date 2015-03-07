@@ -28,9 +28,9 @@ The goal of IEEE Corporate is to bridge the communication gap between the compan
 *   **Resume Book**
 
     The students in the Department of Electrical and Computer Engineering (ECE) here at the Illinois Institute of Technology are some of the most motivated and talented individuals in the College of Engineering. We here at IEEE allow all our student members in the ECE Department and in other departments of the Armour College of Engineering to upload their resumes to our database. *Only* Corporate Sponsors of IEEE are given access to this database.
---->
-    If you are a student and would like to upload your resume to our database, please visit our [submission form.]({{ site.baseurl }}/resume/)
 
+    If you are a student and would like to upload your resume to our database, please visit our [submission form.]({{ site.baseurl }}/resume/)
+--->
 *   **Sponsorship**
 
     IEEE is currently looking for companies to sponsor an upgrade of the IEEE Student Lab, as well as sponsor technical workshops or projects. Such sponsorships will certainly add to the visibility of the company among IEEE members.
