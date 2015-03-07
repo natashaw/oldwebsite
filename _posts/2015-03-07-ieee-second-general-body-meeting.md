@@ -1,5 +1,5 @@
 ---
-title: IEEE Holds Second General Body Meeting
+title: IEEE Held Second General Body Meeting
 author: Vijai Baskar
 layout: post
 permalink: /2015/03/ieee-second-general-body-meeting/
