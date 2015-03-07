@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: 
 title: Resume Book
 weight: 5
 ---
