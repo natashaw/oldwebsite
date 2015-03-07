@@ -17,14 +17,11 @@ This was followed by a session on the Student Transition and Elevation Program (
 Vasquez mentioned that the STEP program is a platform for students to get access to the opportunities and benefits of an 
 IEEE membership to transform into a professional. Russell T. Harrison, IEEE-USA Director of Government Relations gave 
 the keynote address to begin the second day with information about the conference and the efforts that were taken to make 
-it possible. This was followed by two breakout sessions with two speakers each. The speakers of the first session spoke about 
-robotics and its use in drones and demonstrated the quadcopter that students from the University of Wisconsin-Madison built. 
-The second breakout session was on two topics, one on 3-D printing and the other on Angular JavaScript. 
+it possible. This was followed by two breakout sessions with two speakers each. The speakers of the first session spoke about robotics and its use in drones and demonstrated the quadcopter that students from the University of Wisconsin-Madison built. The second breakout session was on two topics, one on 3-D printing and the other on Angular JavaScript. 
 
 Steven James, Engineering Manager at UTC Aerospace Systems, conducted the following session on leadership training. 
 He focused on how being a member at IEEE brings out the leader in each person by involving them in and exposing them to the 
-changing scenarios in the engineering industry. He encouraged students to participate in future conferences and also technical 
-events hosted by IEEE as it is a great platform for students to communicate with the industry and its pioneers. 
+changing scenarios in the engineering industry. He encouraged students to participate in future conferences and also technical events hosted by IEEE as it is a great platform for students to communicate with the industry and its pioneers. 
 
 In addition to the seminars and speaking sessions, there were a number of competitions that took place as part of 
 this conference. These competitions included Maze solving (a popular robotics competition), Brown Bag (circuit design 
