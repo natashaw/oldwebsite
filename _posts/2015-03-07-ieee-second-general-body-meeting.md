@@ -16,4 +16,3 @@ The guest speaker for the event was Robert Burke, Student Branch Activity Chair 
 
 The IEEE @ IIT student branch plans to have company tours, and general body meetings, that will be conducted every month, typically during the last week. They will also have their signature barbeque event, which will be held mostly during the last week of April owing to the weather permitting the odds of the event, since it is an outdoor event. Information about these events will be sent out to students soon.
 
-Vijai Baskar
