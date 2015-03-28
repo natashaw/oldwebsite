@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Job Opportunities
 weight: 5
 ---
@@ -9,7 +9,7 @@ weight: 5
   {% for post in paginator.posts %}
   <div class="post">
     <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
+      <a href="{{ site.baseurl }}/joblistings/{{ post.url }}">
         {{ post.title }}
       </a>
     </h1>
