@@ -14,10 +14,10 @@ The City of Naperville is seeking an independent, self-motivated person to fill 
 Candidates interested in this position will need to possess skills in the use of automotive test and diagnostic computer equipment, hand tools and other specialized repair equipment.  A high school diploma or equivalent plus additional vocational/technical training in the area of automotive repair is required (an Associate’s Degree in Automotive Service is preferred).  Candidates must also have at least one to three years of related experience. In addition, this position requires two ASE Certifications and a valid State of Illinois Class C Driver’s License.  Selected candidate must possess a complete set of automotive tools including a mobile storage unit.  
 
 **ELECTRICAL ENGINEER - Substations**
-__Engineering & Technical Services Division
-Substations Engineering Section
+__Engineering & Technical Services Division__
+__Substations Engineering Section__
 
-POSITION CLOSES:__ when filled
+__POSITION CLOSES:__ when filled
 __SALARY:__ $63,615 – 76,000 annually, commensurate with experience  
 
 Looking to further your career in power transmission?  If you desire to apply your electric utility distribution and/or substations knowledge at a municipal electric utility at the front end of industry technology, and you seek to make an impact as a vital member of a successful, high-performing team, you’ll want to consider Naperville!
