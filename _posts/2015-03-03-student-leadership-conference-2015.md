@@ -2,6 +2,7 @@
 title: IEEE Attended Student Leadership Conference in Wisconsin
 author: Vijai Baskar
 layout: post
+category: home
 permalink: /2015/03/student-leadership-conference-2015/
 ---
 
