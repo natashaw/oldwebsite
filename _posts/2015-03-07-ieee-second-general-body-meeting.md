@@ -2,6 +2,7 @@
 title: IEEE Held Second General Body Meeting
 author: Vijai Baskar
 layout: post
+category: home
 permalink: /2015/03/07/ieee-second-general-body-meeting/
 ---
 
