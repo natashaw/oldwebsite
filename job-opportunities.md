@@ -4,7 +4,7 @@ title: Job Opportunities
 weight: 5
 ---
 <div class="posts">
-  {% for post in paginator.joblistings %}
+  {% for post in paginator.posts %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
