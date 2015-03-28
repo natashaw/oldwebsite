@@ -24,8 +24,8 @@ weight: 0
 </div>
 
 <div class="posts">
-{% for post in paginator.posts %}
-  <!--{% for post in site.categories.home %}-->
+<!--{% for post in paginator.posts %}-->
+  {% for post in site.categories.home limit:5 %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
