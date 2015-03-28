@@ -2,6 +2,7 @@
 title: The City of Naperville is Hiring
 author: 
 layout: post
+category: jobs
 permalink: /2015/03/27/naperville-job-opportunities/
 ---
 
