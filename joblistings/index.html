@@ -2,13 +2,11 @@
 layout: page
 title: Job Opportunities
 weight: 5
-category: jobs
 ---
 <!-- INSERT INTRO PARAGRAPH -->
-<div class="title">{{ page.title }}</div>
 
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in site.categories.jobs %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ site.baseurl }}/joblistings/{{ post.url }}">
