@@ -1,3 +1,10 @@
+---
+title: The City of Naperville is Hiring
+author: 
+layout: post
+permalink: /2015/03/naperville-job-opportunities/
+---
+
 Posting date: February 27th, 2015
 ### Employer: City of Naperville
 ### Apply at: 
