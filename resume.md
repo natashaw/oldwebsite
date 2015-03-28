@@ -1,7 +1,7 @@
 ---
 layout: 
 title: Resume Book
-weight: 5
+weight: 6
 ---
 
 If you want your resume sent to Google Inc., please fill this out by Sunday Sept. 21st at 9pm.
