@@ -6,7 +6,7 @@ Posting date: February 27th, 2015
 
 **AUTOMOTIVE TECHNICIAN – 1st Shift**
 **DEPARTMENT OF PUBLIC WORKS – FLEET SERVICES DIVISION**
-**POSITION CLOSES:  When filled**
+**POSITION CLOSES:**  When filled
 **SALARY:**  $20.86 per hour
 
 The City of Naperville is seeking an independent, self-motivated person to fill the position of Automotive Technician for its Department of Public Works - Fleet Services Division.  This position is responsible for inspecting, diagnosing, maintaining and repairing mechanical and electrical problems in automobiles, patrol cars, trucks and light and medium duty gas and small diesel powered equipment.  Specific job duties will include servicing vehicles and equipment in the field when necessary; repairing and maintaining hydraulic systems; maintaining records of daily work, time and materials; performing welding and fabrication on body and frame parts; and participating in training in order to remain current on the latest automotive repair technology. This is a first shift position with working hours from 6:30 a.m. – 3:00 p.m., Monday through Friday.
@@ -14,11 +14,11 @@ The City of Naperville is seeking an independent, self-motivated person to fill 
 Candidates interested in this position will need to possess skills in the use of automotive test and diagnostic computer equipment, hand tools and other specialized repair equipment.  A high school diploma or equivalent plus additional vocational/technical training in the area of automotive repair is required (an Associate’s Degree in Automotive Service is preferred).  Candidates must also have at least one to three years of related experience. In addition, this position requires two ASE Certifications and a valid State of Illinois Class C Driver’s License.  Selected candidate must possess a complete set of automotive tools including a mobile storage unit.  
 
 **ELECTRICAL ENGINEER - Substations**
-_Engineering & Technical Services Division_
-_Substations Engineering Section_
+__Engineering & Technical Services Division
+Substations Engineering Section
 
-_POSITION CLOSES: when filled
-SALARY:_ $63,615 – 76,000 annually, commensurate with experience  
+POSITION CLOSES:__ when filled
+__SALARY:__ $63,615 – 76,000 annually, commensurate with experience  
 
 Looking to further your career in power transmission?  If you desire to apply your electric utility distribution and/or substations knowledge at a municipal electric utility at the front end of industry technology, and you seek to make an impact as a vital member of a successful, high-performing team, you’ll want to consider Naperville!
 
