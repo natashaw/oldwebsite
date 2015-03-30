@@ -4,7 +4,7 @@ author:
 layout: post
 category: jobs
 permalink: /2015/03/27/naperville-job-opportunities/
-description: Incoming job opportunities. Check them out!
+description: The City of Naperville is seeking for Automotive Technician, Electrical Engineer, and more. Check their postings by clicking read more.
 ---
 
 Posting date: February 27th, 2015
@@ -42,4 +42,25 @@ Better candidates will possess experience with common electric utility communica
 
 The City of Naperville, Illinois is a dynamic community of 146,000 residents, conveniently located 28 miles west of Chicago.  Money Magazine consistently has ranked Naperville among the best cities in the United States in which to live.  We have gained national recognition for our family-friendly environment, excellent schools and 
 library system, low crime rate and vibrant downtown area.  Our municipal government employs over 900 dedicated individuals in a wide range of job categories.  In exchange for your “great service all the time,” the City offers a learning environment, competitive benefits, a defined benefit pension plan, and free access to the City fitness center.
+
+**Electrical Engineering Technician**
+__Department: 	Public Utilities – Electric__
+__Division:	Supply & Control__
+
+__POSITION CLOSES:__ when filled
+__Hiring wage range: __ $21.50 – 27.15/hr, commensurate with relevant experience
+
+Do you seek a dynamic & challenging work environment with a municipal electric utility at the front end of industry technology?  Are you known for out-performing your peers?  Consider Naperville!
+
+The City of Naperville’s Electric Utility seeks a multi-talented and self-motivated Electrical Engineering Technician to assist Engineers and Project Managers in updating & maintaining our Substation Preventative Maintenance Program; to provide technical information for maintenance costs, new construction, & forecasting work; to organize & maintain the substation inventory system and reorder parts; and to update substation engineering plans to ensure the most current revisions are reflected for use at the (16) substations.  This position has no supervisory nor budgetary responsibilities. 
+
+Reporting directly to the Supply & Control Manager, you will prepare work orders, estimates, & schedules, and enter time & cost information into asset management software.  You will field-verify inventory, parts, & equipment in order to maintain accurate quantities, reorder levels & equipment maintenance costs, and associate parts with equipment to ensure crews can find appropriate replacements.  You will maintain a vendor database.  You’ll scan and input documents, perform data entry and verification of all tests performed for NERC and other regulatory agencies on relays, current transformers, voltage transformers, & trip checks performed by substation linemen crews.  You’ll ensure that analytical & test data (e.g., oil analysis tests, infrared images, power factor data, battery bank testing, relay testing, transformer & circuit breaker tests, and monthly substation inspections) is maintained in asset management software.  
+
+The EE Technician works closely with engineering personnel to implement/maintain the document management program for substation engineering plans; issues print copies for substation personnel using various scanning software and AutoCad; visits substations to update electrical print data; sets up the equipment retrieval & tracking system in asset management software; researches requests for historical data relating to maintenance/ repair activities, job costs, and purchase information; and creates & prepares illustrative materials (charts/graphs) to display/communicate items such as work performed, man-hours worked and expenses-by-category using Excel, Access or Crystal Reports. 
+
+At a minimum, qualified candidates must possess an Associate's degree and three to five years work experience in a related tech field.  Alternately, a person with a related Bachelor's degree (Electrical Engineering, EE Technology, or similar) should possess 6 months to one year work experience.  A valid Driver’s License and a safe driving record are required.  Familiarity with FERC, continuing property records, and/or job costing is preferred. 
+
+Knowledge, skill and/or abilities that are relevant include: Knowledge of drafting terminology & techniques, and electrical components & construction of an Electrical Utility System.  Skills in communicating effectively (with Linemen and/or Engineers), and skills in the use of Computer Aided Drafting tools.  Abilities to interpret engineering plans and specifications; to perform engineering support-related tasks with little or no supervision.  Reliable attendance, punctuality and availability are essential to this position.  
+
+The City of Naperville is an award-winning community of 146,000 residents, conveniently located 28 miles west of Chicago.  Our Electric Utility currently serves 57,000 customers with 1000 miles of transmission and distribution lines (of which 90% are underground) and a 400MW peak demand/1,500,000 MWH annually.  Money Magazine consistently rates Naperville as one of the best cities in the United States in which to live.  It’s also a great place to work!  Our municipal government employs more than 900 dedicated individuals in a wide range of job categories.  In return for your “great service all the time,” we’ll provide you evolving learning opportunities, a competitive benefits package, and free access to the City fitness center.
 
