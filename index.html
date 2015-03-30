@@ -25,7 +25,7 @@ weight: 0
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <!--{% if page.categories != joblistings %}-->
+  {% if page.categories != joblistings %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
@@ -39,7 +39,7 @@ weight: 0
     
     <a href="{{ post.url }}" title="{{ post.title }}">Read more..</a>
   </div>
-  <!--{% endif %}-->
+  {% endif %}
  {% endfor %}
 </div>
 
