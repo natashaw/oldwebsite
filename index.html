@@ -24,10 +24,9 @@ weight: 0
 </div>
 
 <div class="posts">
-  {% if !site.categories.jobs %}
   {% for post in paginator.posts %}
-
-  <div class="post">
+    {% if post.category != 'jobs' %}
+    <div class="post">
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
@@ -38,6 +37,7 @@ weight: 0
 
     {% if post.description %}
         {{ post.description }}
+        
         <a href="{{ post.url }}" title="{{ post.title }}">Read more..</a>
     {% else %}
        {{ post.content }}
@@ -45,8 +45,8 @@ weight: 0
     
     
   </div>
+  {% endif %}
  {% endfor %}
- {% endif %}
 </div>
 
 <div class="pagination">
