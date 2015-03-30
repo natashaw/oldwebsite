@@ -37,8 +37,7 @@ weight: 0
 
     {% if post.description %}
         {{ post.description }}
-        
-        <a href="{{ post.url }}" title="{{ post.title }}">Read more..</a>
+        </br><a href="{{ post.url }}" title="{{ post.title }}">Read more..</a>
     {% else %}
        {{ post.content }}
     {% endif %}
