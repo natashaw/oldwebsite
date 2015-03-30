@@ -24,7 +24,7 @@ weight: 0
 </div>
 
 <div class="posts">
-  {% if site.categories != jobs %}
+  {% if !site.categories.jobs %}
   {% for post in paginator.posts %}
 
   <div class="post">
