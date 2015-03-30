@@ -4,11 +4,11 @@ author:
 layout: post
 category: jobs
 permalink: /2015/03/27/naperville-job-opportunities/
+description: Incoming job opportunities. Check them out!
 ---
 
 Posting date: February 27th, 2015
-### Employer: City of Naperville
-### Apply at: 
+### Employer: City of Naperville</br>Apply at:
 [http://www.naperville.il.us/careeropps.htm](http://www.naperville.il.us/careeropps.htm) or
 [http://www.governmentjobs.com](http://www.governmentjobs.com)
 
