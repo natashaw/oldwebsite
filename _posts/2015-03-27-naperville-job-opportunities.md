@@ -13,10 +13,8 @@ Posting date: February 27th, 2015
 [http://www.governmentjobs.com](http://www.governmentjobs.com)
 
 **AUTOMOTIVE TECHNICIAN – 1st Shift**
-</br>
-**DEPARTMENT OF PUBLIC WORKS – FLEET SERVICES DIVISION**
-</br>
-**POSITION CLOSES:**  When filled
+</br>**DEPARTMENT OF PUBLIC WORKS – FLEET SERVICES DIVISION**
+</br>**POSITION CLOSES:**  When filled
 **SALARY:**  $20.86 per hour
 
 The City of Naperville is seeking an independent, self-motivated person to fill the position of Automotive Technician for its Department of Public Works - Fleet Services Division.  This position is responsible for inspecting, diagnosing, maintaining and repairing mechanical and electrical problems in automobiles, patrol cars, trucks and light and medium duty gas and small diesel powered equipment.  Specific job duties will include servicing vehicles and equipment in the field when necessary; repairing and maintaining hydraulic systems; maintaining records of daily work, time and materials; performing welding and fabrication on body and frame parts; and participating in training in order to remain current on the latest automotive repair technology. This is a first shift position with working hours from 6:30 a.m. – 3:00 p.m., Monday through Friday.
