@@ -13,7 +13,9 @@ Posting date: February 27th, 2015
 [http://www.governmentjobs.com](http://www.governmentjobs.com)
 
 **AUTOMOTIVE TECHNICIAN – 1st Shift**
+
 **DEPARTMENT OF PUBLIC WORKS – FLEET SERVICES DIVISION**
+
 **POSITION CLOSES:**  When filled
 **SALARY:**  $20.86 per hour
 
