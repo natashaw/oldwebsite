@@ -6,13 +6,21 @@ category: home
 permalink: /2015/04/20/nominations-for-ieee-executive-board-2015-2016/
 ---
 
-<div class = "row">
-  <a href= "#hide1" class= "hide" id= "hide1">Expand</a>
-  <a href="#show1" class= "show" id= "show1">Collapse</a>
-  <div class= "list">
-  <ul>
-  <li>Item 1</li>
-  <li>Item 2</li>
-  </ul>
-  </div>
+<div onClick="openClose('a1')" style="cursor:hand; cursor:pointer"><b>1] Item 1:</b></div>
+<div id="a1" class="texter">
+Item 1 text.<br /><br />
 </div>
+
+<div onClick="openClose('a2')" style="cursor:hand; cursor:pointer"><b>2] Item 2:</b></div>
+<div id="a2" class="texter">
+Item 2 text.<br /><br />
+</div>
+
+<div onClick="openClose('a3')" style="cursor:hand; cursor:pointer"><b>3] Item 3:</b></div>
+<div id="a3" class="texter">
+Item 3 text.<br /><br />
+</div>
+
+
+
+Read more : http://www.ehow.com/how_5772308_expand-collapse-text.html
